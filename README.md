@@ -1,7 +1,7 @@
 # Yelp Capital One Project: Boba Addict
 In the mood for boba? With this handy dandy web app, you'll always know the best boba shop near you! This web app utilizes the Yelp Fusion API to find the best boba shops (up to 5) near you based on 4 simple search preferences of Distance, Price, if it's open now, and location. It also utilizes the Goole Maps API to map the user's current/specified location and the boba shop. In addition, there is a general search page for finding other restaurants that is formatted the same way.
 
-Deployed Site: https://phi-h-nguyen.github.io/boba-addict/bobaAddict/index.html
+Deployed Site: https://phi-h-nguyen.github.io/boba-addict/bobaAddict
 
 # My Solution
 I used this project to simplify a task my friends and I do very often: finding the best boba near us. When just trying to find a simple boba place on Yelp, you can easily get overwhelmed by all of the different filters, search preferences, and categories. When using Boba Addict, say goodbye to decision fatigue because your current location is automatically found using HTML5 Geolocation and the search is simplified to only the three filters most people really care about: Distance, Price, and if it's open now. After you hit the search button, up to 5 boba shops are returned in order of Yelp's best match. With each result, there is a link to the  business's Yelp page, directions, details (such as the distance, price, and rating), a Google Map with the user's and the boba shop's location, and a picture pulled from Yelp. I have also included a general search page for finding all kinds of restaurants.
