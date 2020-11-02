@@ -1,4 +1,4 @@
-# Yelp Capital One Project: Boba Addict
+# Yelp Capital One Project: Boba Addict (Selected)
 In the mood for boba? With this handy dandy web app, you'll always know the best boba shop near you! This web app utilizes the Yelp Fusion API to find the best boba shops (up to 5) near you based on 4 simple search preferences of Distance, Price, if it's open now, and location. It also utilizes the Goole Maps API to map the user's current/specified location and the boba shop. In addition, there is a general search page for finding other restaurants that is formatted the same way.
 
 Deployed Site: https://phi-h-nguyen.github.io/boba-addict/bobaAddict
